@@ -1,4 +1,4 @@
-# charts
+# Flutter Charts
 
 A new Flutter project.
 
